@@ -1,3 +1,13 @@
+# pneumonia-detection-using-alexnet
+
+Pneumonia detection from chest X-rays using a modified AlexNet CNN in PyTorch, with a Gradio interface on Colab.
+
+By Ubaid Ullah — https://djangix.com/
+
+> Dataset: [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) on Kaggle. Model: modified AlexNet (PyTorch), run in Google Colab with a Gradio interface.
+
+---
+
 # Pneumonia Detection using AlexNet (Google Colab + Gradio)
 
 This project builds a **Pneumonia Detection** system using a modified **AlexNet CNN architecture**. It uses the [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) dataset from Kaggle and runs entirely on **Google Colab** with a **Gradio-based web interface** for real-time predictions.
